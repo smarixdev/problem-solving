@@ -35,3 +35,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_003_profitableGamble)
 
 ---
+### Problem { 4 } boolToString
+
+![The picture of the problem { 4 }](/images/Problem_004.png)
+
+**Watch Video:** [**profitableGamble**](https://www.youtube.com/watch?v=tZZ9k5Oma3A)
+
+**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_004_boolToString)
+
+---
