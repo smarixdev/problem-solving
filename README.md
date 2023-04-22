@@ -112,3 +112,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_010_oddOrEven)
 
 ---
+### Problem { 11 } leapYear
+
+![The picture of the problem { 11 }](/images/Problem_011.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=J5ZQqBGAmtk)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/wBYQnCytRFNxsL4Gr)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_011_leapYear)
+
+---
