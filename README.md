@@ -90,3 +90,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_008_divisible)
 
 ---
+### Problem { 9 } acceptIntoMovie
+
+![The picture of the problem { 9 }](/images/Problem_009.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=_FbeQxcuvqo)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/fP7gFvDaBymoZrXFx)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_009_acceptIntoMovie)
+
+---
