@@ -24,3 +24,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_002_isSameNum)
 
 ---
+### Problem { 3 } profitableGamble
+
+![The picture of the problem { 3 }](/images/Problem_003.png)
+
+**Watch Video:** [**profitableGamble**]()
+
+**View Problem:** [**Edabit Problem**]()
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_003_profitableGamble)
+
+---
