@@ -57,3 +57,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_005_greeting)
 
 ---
+### Problem { 6 } makesTen
+
+![The picture of the problem { 6 }](/images/Problem_006.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=JIbgP-Mc30U)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/5erCDJ8eJDrXkmwTK)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_006_makesTen)
+
+---
