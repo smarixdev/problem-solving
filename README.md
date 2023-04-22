@@ -28,9 +28,9 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 ![The picture of the problem { 3 }](/images/Problem_003.png)
 
-**Watch Video:** [**profitableGamble**]()
+**Watch Video:** [**profitableGamble**](https://www.youtube.com/watch?v=_hFKsou5Vvs)
 
-**View Problem:** [**Edabit Problem**]()
+**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/ghbHrRnRiDz9fvQNF)
 
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_003_profitableGamble)
 
