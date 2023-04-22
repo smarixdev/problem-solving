@@ -101,3 +101,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_009_acceptIntoMovie)
 
 ---
+### Problem { 10 } oddOrEven
+
+![The picture of the problem { 10 }](/images/Problem_010.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=DqBUT9CDb9U)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/2tcuBxn37oouMeErN)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_010_oddOrEven)
+
+---
