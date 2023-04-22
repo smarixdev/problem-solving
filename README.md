@@ -13,3 +13,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_001_lessThanOrEqualToZero)
 
 ---
+### Problem { 2 } isSameNum
+
+![The picture of the problem { 2 }](/images/Problem_002.png)
+
+**Watch Video:** [**isSameNum**](https://www.youtube.com/watch?v=xIxru35whQI)
+
+**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/QSnaSH5S3oxZkwcNc)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_002_isSameNum)
+
+---
