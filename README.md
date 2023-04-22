@@ -178,3 +178,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_016_calculateExponent)
 
 ---
+### Problem { 17 } findIndex
+
+![The picture of the problem { 17 }](/images/Problem_017.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=WtGBxwpjajg)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/9ApjPggCLGiPt573m)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_017_findIndex)
+
+---
