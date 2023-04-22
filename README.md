@@ -145,3 +145,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_013_word)
 
 ---
+### Problem { 14 } relationToLuke
+
+![The picture of the problem { 14 }](/images/Problem_014.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=z4nxVqWAyy4)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/Ac8GiJBAzEJYmcqyF)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_014_relationToLuke)
+
+---
