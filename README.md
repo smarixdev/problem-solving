@@ -6,9 +6,9 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 ![The picture of the problem { 1 }](/images/Problem_001.png)
 
-**Watch Video:** [**lessThanOrEqualToZero**](https://www.youtube.com/watch?v=oG54miL9JFw)
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=oG54miL9JFw)
 
-**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
 
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_001_lessThanOrEqualToZero)
 
@@ -17,9 +17,9 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 ![The picture of the problem { 2 }](/images/Problem_002.png)
 
-**Watch Video:** [**isSameNum**](https://www.youtube.com/watch?v=xIxru35whQI)
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=xIxru35whQI)
 
-**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/QSnaSH5S3oxZkwcNc)
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/QSnaSH5S3oxZkwcNc)
 
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_002_isSameNum)
 
@@ -28,9 +28,9 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 ![The picture of the problem { 3 }](/images/Problem_003.png)
 
-**Watch Video:** [**profitableGamble**](https://www.youtube.com/watch?v=_hFKsou5Vvs)
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=_hFKsou5Vvs)
 
-**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/ghbHrRnRiDz9fvQNF)
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/ghbHrRnRiDz9fvQNF)
 
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_003_profitableGamble)
 
@@ -39,10 +39,21 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 ![The picture of the problem { 4 }](/images/Problem_004.png)
 
-**Watch Video:** [**profitableGamble**](https://www.youtube.com/watch?v=tZZ9k5Oma3A)
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=tZZ9k5Oma3A)
 
-**View Problem:** [**Edabit Problem**](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)
 
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_004_boolToString)
+
+---
+### Problem { 5 } greeting
+
+![The picture of the problem { 5 }](/images/Problem_005.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=mLvHYGSQ2YU)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/4SmqXvQtL6qRgzfha)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_005_greeting)
 
 ---
