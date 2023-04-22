@@ -167,3 +167,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_015_journeyDistance)
 
 ---
+### Problem { 16 } calculateExponent
+
+![The picture of the problem { 16 }](/images/Problem_016.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=lFplpMJNJFo)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/H25aG5aAdmFcMpBsg)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_016_calculateExponent)
+
+---
