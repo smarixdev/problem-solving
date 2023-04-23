@@ -210,3 +210,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_019_length)
 
 ---
+### Problem { 20 } addIndexes
+![The picture of the problem { 20 }](/images/Problem_020.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=fn69Cjt_ku4)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/izss6QT59oH72uky3)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_020_addIndexes)
+
+---
