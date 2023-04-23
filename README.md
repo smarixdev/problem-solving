@@ -220,3 +220,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_020_addIndexes)
 
 ---
+### Problem { 21 } addOddToN
+![The picture of the problem { 21 }](/images/Problem_021.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=9_Yv4247138)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/wu7DA5ud68NjPbXjb)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_021_addOddToN)
+
+---
