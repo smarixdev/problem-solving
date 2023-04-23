@@ -200,3 +200,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_018_arrayValuesTypes)
 
 ---
+### Problem { 19 } length
+![The picture of the problem { 19 }](/images/Problem_019.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=knHZ5IfBhsw)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/bvPBzNq9FutDb2X6J)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_019_length)
+
+---
