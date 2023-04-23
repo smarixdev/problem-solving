@@ -240,3 +240,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_022_filterArray)
 
 ---
+### Problem { 23 } squaresSum
+![The picture of the problem { 23 }](/images/Problem_023.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=MM047kAzLD0)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/ip7xupP78R5z5mTmT)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_023_squaresSum)
+
+---
