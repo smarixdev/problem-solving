@@ -189,3 +189,14 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_017_findIndex)
 
 ---
+### Problem { 18 } arrayValuesTypes
+
+![The picture of the problem { 18 }](/images/Problem_018.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=ogwtiMSstOM)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/QWmvQsrSuQRmEN8ne)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_018_arrayValuesTypes)
+
+---
