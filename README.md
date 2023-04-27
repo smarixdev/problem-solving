@@ -260,3 +260,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_024_integerBoolean)
 
 ---
+### Problem { 25 } nTablesPlusOne
+![The picture of the problem { 25 }](/images/Problem_025.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=0RhRnb71UrI)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/F3Jdoa5YBSboP4ucb)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_025_nTablesPlusOne)
+
+---
