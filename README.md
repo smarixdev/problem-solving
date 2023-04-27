@@ -380,3 +380,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_036_chatroomStatus)
 
 ---
+### Problem { 37 } testJackpot
+![The picture of the problem { 37 }](/images/Problem_037.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=k_HdTSW4zjc)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/hxyvTffvdT4E238CY)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_037_testJackpot)
+
+---
