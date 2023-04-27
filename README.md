@@ -360,3 +360,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_034_flip)
 
 ---
+### Problem { 35 } sayHelloBye
+![The picture of the problem { 35 }](/images/Problem_035.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=yx3Pby5tl-E)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/kLa2w7m4h849k8rmW)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_035_sayHelloBye)
+
+---
