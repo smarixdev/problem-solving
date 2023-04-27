@@ -320,3 +320,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_030_findFactors)
 
 ---
+### Problem { 31 } calculateFuel
+![The picture of the problem { 31 }](/images/Problem_031.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=rkkuHJWnNHY)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/YMWDcSuYwYvve3HZj)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_031_calculateFuel)
+
+---
