@@ -340,3 +340,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_032_hurdleJump)
 
 ---
+### Problem { 33 } transform
+![The picture of the problem { 33 }](/images/Problem_033.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=cuuEX_5euL4)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/dWNPtNeQgyn6mS8FA)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_033_transform)
+
+---
