@@ -250,3 +250,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_023_squaresSum)
 
 ---
+### Problem { 24 } integerBoolean
+![The picture of the problem { 24 }](/images/Problem_024.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=j2tzXQYqvSg)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/3BqLw3Rp85Y94nAho)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_024_integerBoolean)
+
+---
