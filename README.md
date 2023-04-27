@@ -290,3 +290,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_027_forbiddenLetter)
 
 ---
+### Problem { 28 } uploadCount
+![The picture of the problem { 28 }](/images/Problem_028.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=Z_JgcEyyUW4)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/GoXcArzHKTWaA8C2z)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_028_uploadCount)
+
+---
