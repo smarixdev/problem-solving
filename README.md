@@ -400,3 +400,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_038_hackerSpeak)
 
 ---
+### Problem { 39 } century
+![The picture of the problem { 39 }](/images/Problem_039.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=rKJ8R_IRKE0)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/SAdqaWKRpjLfZnGKA)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_039_century)
+
+---
