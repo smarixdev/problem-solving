@@ -440,3 +440,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_042_reverseComplement)
 
 ---
+### Problem { 43 } returnEndOfNumber
+![The picture of the problem { 43 }](/images/Problem_043.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=q5k_cZaqc98)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/MEgXcp8cj3vNvD42v)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_043_returnEndOfNumber)
+
+---
