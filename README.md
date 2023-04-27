@@ -450,3 +450,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_043_returnEndOfNumber)
 
 ---
+### Problem { 44 } check
+![The picture of the problem { 44 }](/images/Problem_044.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=96FGrTRb61g)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/E4zMxggTmqxS2Fmcj)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_044_check)
+
+---
