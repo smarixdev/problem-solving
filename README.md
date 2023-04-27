@@ -300,3 +300,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_028_uploadCount)
 
 ---
+### Problem { 29 } sumMinimums
+![The picture of the problem { 29 }](/images/Problem_029.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=an4Crt_26PI)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/5RiZh6yJKeGEo4P3z)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_029_sumMinimums)
+
+---
