@@ -390,3 +390,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_037_testJackpot)
 
 ---
+### Problem { 38 } hackerSpeak
+![The picture of the problem { 38 }](/images/Problem_038.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=DHiUWc_LtSU)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/cada8J3AWGRhwQhkk)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_038_hackerSpeak)
+
+---
