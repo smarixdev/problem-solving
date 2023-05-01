@@ -490,3 +490,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_047_nameString)
 
 ---
+### Problem { 48 } invertArray
+![The picture of the problem { 48 }](/images/Problem_048.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=Tcn5n5fS_pI)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/5L368ypvh5ZZ2HJSL)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_048_invertArray)
+
+---
