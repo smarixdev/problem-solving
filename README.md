@@ -470,3 +470,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_045_arithmeticOperation)
 
 ---
+### Problem { 46 } sumPolygon
+![The picture of the problem { 46 }](/images/Problem_046.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=Bel_YU1kGRs)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_046_sumPolygon)
+
+---
