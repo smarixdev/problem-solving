@@ -480,3 +480,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_046_sumPolygon)
 
 ---
+### Problem { 47 } nameString
+![The picture of the problem { 47 }](/images/Problem_047.png)
+
+**Watch Video:** [**On Youtube**](https://www.youtube.com/watch?v=BcKFhs-IiKM)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
+
+**See Code:** [**Code And Files**](https://github.com/webket/problem-solving/tree/main/Problem_047_nameString)
+
+---
