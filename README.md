@@ -10,7 +10,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/PTiLYyb4A69KZtBCg)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_001_lessThanOrEqualToZero)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_001_lessThanOrEqualToZero/script.js)
 
 ---
 ### Problem { 2 } isSameNum
@@ -21,7 +21,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/QSnaSH5S3oxZkwcNc)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_002_isSameNum)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_002_isSameNum/script.js)
 
 ---
 ### Problem { 3 } profitableGamble
@@ -32,7 +32,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/ghbHrRnRiDz9fvQNF)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_003_profitableGamble)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_003_profitableGamble/script.js)
 
 ---
 ### Problem { 4 } boolToString
@@ -43,7 +43,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/KSTkFSnaYBJdo6PHx)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_004_boolToString)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_004_boolToString/script.js)
 
 ---
 ### Problem { 5 } greeting
@@ -54,7 +54,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/4SmqXvQtL6qRgzfha)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_005_greeting)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_005_greeting/script.js)
 
 ---
 ### Problem { 6 } makesTen
@@ -65,7 +65,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/5erCDJ8eJDrXkmwTK)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_006_makesTen)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_006_makesTen/script.js)
 
 ---
 ### Problem { 7 } comp
@@ -76,7 +76,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/yHGowWucg3k2kJdZ4)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_007_comp)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_007_comp/script.js)
 
 ---
 ### Problem { 8 } divisible
@@ -87,7 +87,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/qMr6wYGr6NaXAPQGF)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_008_divisible)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_008_divisible/script.js)
 
 ---
 ### Problem { 9 } acceptIntoMovie
@@ -98,7 +98,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/fP7gFvDaBymoZrXFx)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_009_acceptIntoMovie)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_009_acceptIntoMovie/script.js)
 
 ---
 ### Problem { 10 } oddOrEven
@@ -109,7 +109,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/2tcuBxn37oouMeErN)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_010_oddOrEven)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_010_oddOrEven/script.js)
 
 ---
 ### Problem { 11 } leapYear
@@ -120,7 +120,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/wBYQnCytRFNxsL4Gr)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_011_leapYear)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_011_leapYear/script.js)
 
 ---
 ### Problem { 12 } areaShape
@@ -131,7 +131,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/Z5nLWN9XscsuRi2oT)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_012_areaShape)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_012_areaShape/script.js)
 
 ---
 ### Problem { 13 } word
@@ -142,7 +142,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/ghkYG7dnSKd5NWoyt)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_013_word)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_013_word/script.js)
 
 ---
 ### Problem { 14 } relationToLuke
@@ -153,7 +153,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/Ac8GiJBAzEJYmcqyF)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_014_relationToLuke)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_014_relationToLuke/script.js)
 
 ---
 ### Problem { 15 } journeyDistance
@@ -164,7 +164,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/cMLjrLbhFAswxhtFL)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_015_journeyDistance)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_015_journeyDistance/script.js)
 
 ---
 ### Problem { 16 } calculateExponent
@@ -175,7 +175,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/H25aG5aAdmFcMpBsg)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_016_calculateExponent)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_016_calculateExponent/script.js)
 
 ---
 ### Problem { 17 } findIndex
@@ -186,7 +186,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/9ApjPggCLGiPt573m)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_017_findIndex)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_017_findIndex/script.js)
 
 ---
 ### Problem { 18 } arrayValuesTypes
@@ -197,7 +197,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/QWmvQsrSuQRmEN8ne)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_018_arrayValuesTypes)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_018_arrayValuesTypes/script.js)
 
 ---
 ### Problem { 19 } length
@@ -207,7 +207,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/bvPBzNq9FutDb2X6J)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_019_length)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_019_length/script.js)
 
 ---
 ### Problem { 20 } addIndexes
@@ -217,7 +217,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/izss6QT59oH72uky3)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_020_addIndexes)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_020_addIndexes/script.js)
 
 ---
 ### Problem { 21 } addOddToN
@@ -227,7 +227,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/wu7DA5ud68NjPbXjb)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_021_addOddToN)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_021_addOddToN/script.js)
 
 ---
 ### Problem { 22 } filterArray
@@ -237,7 +237,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/XKX5NHT92okxXCKW7)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_022_filterArray)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_022_filterArray/script.js)
 
 ---
 ### Problem { 23 } squaresSum
@@ -247,7 +247,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/ip7xupP78R5z5mTmT)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_023_squaresSum)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_023_squaresSum/script.js)
 
 ---
 ### Problem { 24 } integerBoolean
@@ -257,7 +257,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/3BqLw3Rp85Y94nAho)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_024_integerBoolean)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_024_integerBoolean/script.js)
 
 ---
 ### Problem { 25 } nTablesPlusOne
@@ -267,7 +267,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/F3Jdoa5YBSboP4ucb)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_025_nTablesPlusOne)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_025_nTablesPlusOne/script.js)
 
 ---
 ### Problem { 26 } makeRug
@@ -277,7 +277,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/qWhoswdp35f8xzqGw)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_026_makeRug)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_026_makeRug/script.js)
 
 ---
 ### Problem { 27 } forbiddenLetter
@@ -287,7 +287,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/AhFCvDdQeA7TnKSqe)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_027_forbiddenLetter)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_027_forbiddenLetter/script.js)
 
 ---
 ### Problem { 28 } uploadCount
@@ -297,7 +297,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/GoXcArzHKTWaA8C2z)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_028_uploadCount)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_028_uploadCount/script.js)
 
 ---
 ### Problem { 29 } sumMinimums
@@ -307,7 +307,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/5RiZh6yJKeGEo4P3z)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_029_sumMinimums)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_029_sumMinimums/script.js)
 
 ---
 ### Problem { 30 } findFactors
@@ -317,7 +317,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/WR3Q72Jbv7Kyzu6AT)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_030_findFactors)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_030_findFactors/script.js)
 
 ---
 ### Problem { 31 } calculateFuel
@@ -327,7 +327,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/YMWDcSuYwYvve3HZj)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_031_calculateFuel)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_031_calculateFuel/script.js)
 
 ---
 ### Problem { 32 } hurdleJump
@@ -337,7 +337,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/Hp9FitGXpKqdCW6Fd)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_032_hurdleJump)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_032_hurdleJump/script.js)
 
 ---
 ### Problem { 33 } transform
@@ -347,7 +347,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/dWNPtNeQgyn6mS8FA)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_033_transform)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_033_transform/script.js)
 
 ---
 ### Problem { 34 } flip
@@ -357,7 +357,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/WjXHgXLAvMxNvD6h2)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_034_flip)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_034_flip/script.js)
 
 ---
 ### Problem { 35 } sayHelloBye
@@ -367,7 +367,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/kLa2w7m4h849k8rmW)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_035_sayHelloBye)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_035_sayHelloBye/script.js)
 
 ---
 ### Problem { 36 } chatroomStatus
@@ -377,7 +377,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/hscAGyt4iNZ3PKy3g)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_036_chatroomStatus)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_036_chatroomStatus/script.js)
 
 ---
 ### Problem { 37 } testJackpot
@@ -387,7 +387,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/hxyvTffvdT4E238CY)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_037_testJackpot)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_037_testJackpot/script.js)
 
 ---
 ### Problem { 38 } hackerSpeak
@@ -397,7 +397,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/cada8J3AWGRhwQhkk)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_038_hackerSpeak)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_038_hackerSpeak/script.js)
 
 ---
 ### Problem { 39 } century
@@ -407,7 +407,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/SAdqaWKRpjLfZnGKA)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_039_century)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_039_century/script.js)
 
 ---
 ### Problem { 40 } sumOfEvens
@@ -417,7 +417,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/yiMSg6cNNCeJDQo3b)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_040_sumOfEvens)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_040_sumOfEvens/script.js)
 
 ---
 ### Problem { 41 } splitVowels
@@ -427,7 +427,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/tWgCG2PjN6FHq27S7)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_041_splitVowels)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_041_splitVowels/script.js)
 
 ---
 ### Problem { 42 } reverseComplement
@@ -437,7 +437,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/zdos9w38tw9QHePRe)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_042_reverseComplement)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_042_reverseComplement/script.js)
 
 ---
 ### Problem { 43 } returnEndOfNumber
@@ -447,7 +447,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/MEgXcp8cj3vNvD42v)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_043_returnEndOfNumber)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_043_returnEndOfNumber/script.js)
 
 ---
 ### Problem { 44 } check
@@ -457,7 +457,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/E4zMxggTmqxS2Fmcj)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_044_check)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_044_check/script.js)
 
 ---
 ### Problem { 45 } arithmeticOperation
@@ -467,7 +467,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/T5MRvCGsZgk5QzCcZ)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_045_arithmeticOperation)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_045_arithmeticOperation/script.js)
 
 ---
 ### Problem { 46 } sumPolygon
@@ -477,7 +477,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_046_sumPolygon)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_046_sumPolygon/script.js)
 
 ---
 ### Problem { 47 } nameString
@@ -487,7 +487,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_047_nameString)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_047_nameString/script.js)
 
 ---
 ### Problem { 48 } invertArray
@@ -497,7 +497,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/5L368ypvh5ZZ2HJSL)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_048_invertArray)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_048_invertArray/script.js)
 
 ---
 ### Problem { 49 } basicCalculator
@@ -507,7 +507,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/XyXCXHu7uZRJRveg4)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_049_basicCalculator)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_049_basicCalculator/script.js)
 
 ---
 ### Problem { 50 } mod
@@ -517,7 +517,7 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/ZrACgdprYx7YTTP7d)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_050_mod)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_050_mod/script.js)
 
 ---
 ### Problem { 51 } arithmeticProgression
@@ -527,6 +527,6 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 
 **View Problem:** [**On Edabit**](https://edabit.com/challenge/udRB96tKMz43nhGkS)
 
-**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_051_arithmeticProgression)
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_051_arithmeticProgression/script.js)
 
 ---
