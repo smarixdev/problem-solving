@@ -530,3 +530,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_051_arithmeticProgression/script.js)
 
 ---
+### Problem { 52 } keyboardMistakes
+![The picture of the problem { 52 }](/images/Problem_052.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/1vfIAOAiIu8)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/wWYkyDdipiYxQoESb)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_052_keyboardMistakes/script.js)
+
+---
