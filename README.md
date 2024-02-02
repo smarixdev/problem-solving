@@ -540,3 +540,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_052_keyboardMistakes/script.js)
 
 ---
+### Problem { 53 } arrIndex
+![The picture of the problem { 53 }](/images/Problem_053.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/-zAWjKwzK4g)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/xwNSxpGzwRh3brHQf)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_053_arrIndex/script.js)
+
+---
