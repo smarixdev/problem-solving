@@ -550,3 +550,63 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_053_arrIndex/script.js)
 
 ---
+### Problem { 54 } reverseCapitalize
+![The picture of the problem { 54 }](/images/Problem_054.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/DN3kEduudks)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/nBW6ubsQCurPvhpWc)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_054_reverseCapitalize/script.js)
+
+---
+### Problem { 55 } makePlusFunction
+![The picture of the problem { 55 }](/images/Problem_055.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/fsL1pGfmr9U)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/ENWFBL4jbTgLbSqwS)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_055_makePlusFunction/script.js)
+
+---
+### Problem { 56 } isRepdigit
+![The picture of the problem { 56 }](/images/Problem_056.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/dtpqVnRlfVI)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/8vSpPNjNx6JBcvxdc)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_056_isRepdigit/script.js)
+
+---
+### Problem { 57 } multiply
+![The picture of the problem { 57 }](/images/Problem_057.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/bvsCIw_6qa4)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/eXAQtdbsfodHL59Jd)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_057_multiply/script.js)
+
+---
+### Problem { 58 } lonelyInteger
+![The picture of the problem { 58 }](/images/Problem_058.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/7T1UYlSX-04)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/fK8a63ttMnt9CZmhg)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_058_lonelyInteger/script.js)
+
+---
+### Problem { 59 } checkScore
+![The picture of the problem { 59 }](/images/Problem_059.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/BbN4xuwEeFM)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/sE7z8FkWycJHrAvu9)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_059_checkScore/script.js)
+
+---
