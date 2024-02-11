@@ -610,3 +610,13 @@ You can find the playlist here: [**Problem Solving On Youtube**](https://www.you
 **See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_059_checkScore/script.js)
 
 ---
+### Problem { 60 } uniqueStyles
+![The picture of the problem { 60 }](/images/Problem_060.png)
+
+**Watch Video:** [**On Youtube**](https://youtu.be/inQWdXzF0Ac)
+
+**View Problem:** [**On Edabit**](https://edabit.com/challenge/XcfmvhpRp4t3tQWG2)
+
+**See Code:** [**Code And Files**](https://github.com/smarixdev/problem-solving/tree/main/Problem_060_uniqueStyles/script.js)
+
+---
